@@ -179,5 +179,3 @@ Through this project, you can learn:
 
 # Author
 Developed by Diksha Kadu Vispute as a Data Structures and Generic Programming project in C++.
-
-Source Code Reference: :contentReference[oaicite:0]{index=0}
